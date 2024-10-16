@@ -1,4 +1,4 @@
-# Airflow Pipelines Project ![Apache Airflow](https://raw.githubusercontent.com/apache/airflow/main/docs/img/logos/apache-airflow-icon.svg)
+# Airflow Pipelines Project ![Apache Airflow](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)
 
 This project demonstrates the use of **Apache Airflow** for automating and orchestrating data workflows. The repository contains several **DAGs (Directed Acyclic Graphs)** that execute various data pipelines, including interactions with Google Cloud services like **BigQuery** and **Cloud Data Fusion**.
 
